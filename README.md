@@ -1,6 +1,6 @@
-# Library Management System
+# Online Library Management System
 
-This is a Library Management System developed using HTML, PHP, JavaScript, CSS. The system helps manage books, users, and library operations efficiently.
+This is a Online Library Management System developed using HTML, PHP, JavaScript, CSS. The system helps manage books, users, and library operations efficiently.
 
 ## Table of Contents
 
@@ -33,13 +33,13 @@ The Library Management System is designed to simplify library operations, includ
 
 ## Installation
 
-To run the Library Management System, you need a web server and a database server. Here's how to set it up using XAMPP:
+To run the Online Library Management System, you need a web server and a database server. Here's how to set it up using XAMPP:
 
 1. Install [XAMPP](https://www.apachefriends.org/index.html) on your computer.
 
 2. Clone this repository to your XAMPP web server directory (e.g., `htdocs`).
 
-3. Import the provided database SQL file (`library_database.sql`) into your MySQL database using phpMyAdmin or the MySQL command line.
+3. Import the provided database SQL file (`library.sql`) into your MySQL database using phpMyAdmin or the MySQL command line.
 
 4. Configure the database connection in the PHP files as needed.
 
@@ -47,7 +47,7 @@ To run the Library Management System, you need a web server and a database serve
 
 1. Start your XAMPP server and ensure that Apache and MySQL are running.
 
-2. Open a web browser and navigate to `http://localhost/Library-Management-System` (adjust the URL based on your XAMPP configuration).
+2. Open a web browser and navigate to `http://localhost/Online-Library-Management-System` (adjust the URL based on your XAMPP configuration).
 
 3. Log in as an admin or staff member using the provided login credentials.
 
