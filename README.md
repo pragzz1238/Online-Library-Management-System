@@ -1,6 +1,6 @@
 # Online Library Management System
 
-This is a Online Library Management System developed using HTML, PHP, JavaScript, CSS. The system helps manage books, users, and library operations efficiently.
+This is a Online Library Management System developed using HTML, PHP, JavaScript, CSS which is developed as a part of my 2nd year project. The system helps manage books, users, and library operations efficiently.
 
 ## Table of Contents
 
